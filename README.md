@@ -56,3 +56,22 @@ Used the S3 website endpoint to open the hosted website in a web browser.
 
 ## 5. Live Website
 <img width="1917" height="1077" alt="Website Output" src="https://github.com/user-attachments/assets/1acb7887-63ce-4389-9473-7dbcfbffe20a" />
+
+# Key Learning
+- Understanding Amazon S3
+- Creating and managing S3 buckets
+- Uploading and managing objects
+- Hosting static website using S3
+- Configuring S3 permissions and bucket policies
+- Understanding AWS website endpoints
+- Deploying a website on cloud infrastructure
+- Understanding basic cloud storage and deployment concepts
+# Project Outcomes
+Successfully deployed a static website using Amazon S3 and gained practical knowledge of AWS cloud storage and website hosting.
+# Future Improvements
+- Add Amazon CloudFront for CDN and HTTPS
+- Configure a custom domain using Amazon Route S3
+- Add SSL/TLS using AWS Certificate Manager
+- Automate deployment using AWS CodePipeline
+- Manage infrastructure using Terraform
+- Implement CI/CD for automatic website deployment
